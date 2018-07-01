@@ -1,0 +1,14 @@
+body{
+	padding: 15px;
+	background: linear-gradient(white, #FF9F83);
+}
+header.header{
+	font-family: 
+}
+footer.footer{
+	border-top: 2px solid grey;
+}
+div.col-4{
+	padding: 15px;
+	line-height: 25px;
+}
